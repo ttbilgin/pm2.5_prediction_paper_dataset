@@ -8,8 +8,8 @@ This repository is organized as follows:
 
   - **/data/**: Contains the datasets used for training and evaluating the models. (Bu klasörü sizin oluşturmanız beklenmektedir).
   - **/workflows/**: Contains the KNIME workflows used to implement the methodologies described in the paper.
-      - `Saliha_tez_workflow_V2.knwf`: The KNIME workflow for the **Gradient Boosting (GB)** models.
-      - `Saliha_tez_workflow_MLP.knwf`: The KNIME workflow for the **Multilayer Perceptron (MLP)** models.
+      - `knime_workflow_GB.knwf`: The KNIME workflow for the **Gradient Boosting (GB)** models.
+      - `knime_workflow_MLP.knwf`: The KNIME workflow for the **Multilayer Perceptron (MLP)** models.
 
 ## Reproducibility Guide
 
