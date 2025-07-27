@@ -31,4 +31,3 @@ The data used in this study were obtained from the following sources:
   - **Air Quality Data:** Provided by the Republic of Turkey Ministry of Environment, Urbanization, and Climate Change, via the National Air Quality Monitoring Network (NAQMN).
   - **Meteorological Data:** Sourced from the ECMWF ERA5 reanalysis dataset, accessed through the Copernicus Climate Data Store.
 
------
