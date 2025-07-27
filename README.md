@@ -1,11 +1,7 @@
 # Advanced Machine Learning for Spatiotemporal PM₂.₅ Concentration Prediction in Urban Environments
 
-[cite\_start]This repository contains the datasets and KNIME workflows for the research paper: **"Advanced Machine Learning for Spatiotemporal PM₂.₅ Concentration Prediction in Urban Environments: A Methodological Framework and Preliminary Evaluation"**[cite: 462].
+This repository contains the datasets and KNIME workflows for the research paper: **"Advanced Machine Learning for Spatiotemporal PM₂.₅ Concentration Prediction in Urban Environments: A Methodological Framework and Preliminary Evaluation"**.
 
-[cite\_start]**Authors:** Saliha Çelikcan BİLGİN¹\*, Turgay Tugay BİLGİN², Hüseyin TOROS³ [cite: 463]  
-[cite\_start]¹ *Department of Energy Systems Engineering, Bursa Technical University, Bursa, Türkiye* [cite: 464]  
-[cite\_start]² *Department of Computer Engineering, Bursa Technical University, Bursa, Türkiye* [cite: 465, 466]  
-[cite\_start]³ *Department of Meteorological Engineering, Istanbul Technical University, Istanbul, Türkiye* [cite: 467]
 
 ## Abstract
 
