@@ -1,6 +1,6 @@
-# Advanced Machine Learning for Spatiotemporal PM₂.₅ Concentration Prediction in Urban Environments
+# A Proposed Machine Learning Framework for Spatiotemporal PM₂.₅ Concentration Prediction in Urban Environments: Methodological Development and Preliminary Assessment
 
-This repository contains the datasets and KNIME workflows for the research paper: **"Advanced Machine Learning for Spatiotemporal PM₂.₅ Concentration Prediction in Urban Environments: A Methodological Framework and Preliminary Evaluation"**.
+This repository contains the datasets and KNIME workflows for the research paper: **"A Proposed Machine Learning Framework for Spatiotemporal PM₂.₅ Concentration Prediction in Urban Environments: Methodological Development and Preliminary Assessment"**.
 
 ## Repository Contents
 
